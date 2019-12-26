@@ -1,0 +1,35 @@
+---
+date: "2018-09-09T00:00:00+02:00"
+draft: false
+linktitle: Optimale Ploeg
+menu:
+  statistieken:
+    parent: Per Wedstrijd
+    weight: 3
+title: Optimale Ploeg
+toc: false
+type: docs
+---
+
+```{r rLoadLibraries, echo=FALSE, results='hide',echo=FALSE,warning=FALSE,message=FALSE}
+library(DT)
+library(tidyverse)
+library(htmlwidgets)
+library(htmltools)
+library(widgetframe)
+load(file = "d:/DATA/RMEGABIKE/CODESITE/CODE/RMegabikeAlles.RData")
+Koers<-D_Koersen%>%filter(TEVERWERKEN==TRUE)%>%mutate(KNAAM=as.character(KNAAM))%>%select(JAAR,KCODE,KNAAM,KOERSDATUM)
+#Koers[1,"KNAAM"]
+R_OptimalePloeg<-D_KoersenOptimalePloeg%>%rename(Koers=KNAAM,Renner=RNAAM,Kost=RPUNTEN,Score=SCORE,Jaar=JAAR)%>%select(Jaar,Koers,Renner,Score,Kost)%>%arrange(desc(Score))
+R_OptimalePloeg$Jaar<-as.factor(as.character(R_OptimalePloeg$Jaar))
+ZoekKolommen <- vector("list", 5) 
+ZoekKolommen[[1]]<-list(search=paste('["',Koers[1,"JAAR"],'"]',sep=''))
+ZoekKolommen[[2]]<-list(search=paste('["',Koers[1,"KNAAM"],'"]',sep=''))
+d1<-datatable(
+  R_OptimalePloeg,rownames = FALSE, filter = list(position = 'top', clear = FALSE)
+  ,options = list(pageLength = 70, searchCols = ZoekKolommen ))
+```
+
+```{r resultaaat,results='asis',echo=FALSE,warning=FALSE,message=FALSE}
+frameWidget(d1,height = 10000)
+```

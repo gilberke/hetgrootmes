@@ -1,0 +1,35 @@
+---
+date: "2018-09-09T00:00:00+02:00"
+draft: false
+linktitle: Tussenstanden
+menu:
+  statistieken:
+    parent: Per Wedstrijd
+    weight: 2
+title: Tussenstanden
+toc: false
+type: docs
+---
+
+```{r rLoadLibraries, echo=FALSE, results='hide',echo=FALSE,warning=FALSE,message=FALSE}
+library(DT)
+library(tidyverse)
+library(htmlwidgets)
+library(htmltools)
+library(widgetframe)
+load(file = "d:/DATA/RMEGABIKE/CODESITE/CODE/RMegabikeAlles.RData")
+rm(list=ls(pattern="_Jaar"),D_Ploegen,D_Renners,D_TotaalOpbrengsten,D_KoersenPuntenRenners,D_Deelnemers)
+Koers<-D_Koersen%>%filter(TEVERWERKEN==TRUE)%>%mutate(KNAAM=as.character(KNAAM))%>%select(JAAR,KCODE,KNAAM,KOERSDATUM)
+R_PuntenPerKoers<-D_KoersenPuntenDeelnemers%>%rename(Koers=KNAAM,Tussenstand=TUSSENSTAND,Plaats=TUSSENPLAATS,Restbudget=RESTBUDGET,Naam=NAAM,Jaar=JAAR)%>%select(Jaar,Koers,Naam,Plaats,Tussenstand,Restbudget)%>%arrange(Plaats)
+R_PuntenPerKoers$Jaar<-as.factor(as.character(R_PuntenPerKoers$Jaar))
+ZoekKolommen <- vector("list", 6) 
+ZoekKolommen[[1]]<-list(search=paste('["',Koers[1,"JAAR"],'"]',sep=''))
+ZoekKolommen[[2]]<-list(search=paste('["',Koers[1,"KNAAM"],'"]',sep=''))
+d1<-datatable(
+  R_PuntenPerKoers,rownames = FALSE, filter = list(position = 'top', clear = FALSE)
+  ,options = list(pageLength = 70, searchCols = ZoekKolommen ))
+```
+
+```{r resultaaat,results='asis',echo=FALSE,warning=FALSE,message=FALSE}
+frameWidget(d1,height = 10000)
+```
