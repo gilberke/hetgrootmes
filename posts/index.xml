@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Megabike</title>
-    <link>/posts/</link>
+    <link>https://hetgrootmes.netlify.com/posts/</link>
     <description>Recent content in Posts on Megabike</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hetgrootmes.netlify.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kuurne-Brussel-Kuurne 2020</title>
-      <link>/kuurne-brussel-kuurne-2020/</link>
+      <link>https://hetgrootmes.netlify.com/kuurne-brussel-kuurne-2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>/kuurne-brussel-kuurne-2020/</guid>
+      <guid>https://hetgrootmes.netlify.com/kuurne-brussel-kuurne-2020/</guid>
       <description>VerslagDe dag na de omloop staat traditiegetrouw het uitje van Kuurne naar Brussel en terug op de kalender. Normaal een revanche mogelijkheid voor ploegen met een sprinter die het gisteren liet afweten. Maar de organisatie wil daar een stokje voor steken door het parcours te wijzigen. We komen nu via Bellegem het plaatselijk parcours op en rijden maar 1 ronde. De koers zal uitwijzen of deze wijziging een meerwaarde is.</description>
     </item>
     
     <item>
       <title>Omloop Het Nieuwsblad 2020</title>
-      <link>/omloop-het-nieuwsblad-2020/</link>
+      <link>https://hetgrootmes.netlify.com/omloop-het-nieuwsblad-2020/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/omloop-het-nieuwsblad-2020/</guid>
+      <guid>https://hetgrootmes.netlify.com/omloop-het-nieuwsblad-2020/</guid>
       <description>VerslagIn tijden waar een corona bestellen bij de afhaal Chinees niet grappig is. In tijden waar elke weekend gegeseld wordt door een nieuwe storm. Wordt koersen nog meer een uitdaging.
 Vandaag toch één zonnestraal, het Belgisch wielervoorjaar wordt op gang geschoten. Flandrien weer op bestelling, een uitdagend parcours met een finale voor de echte mannen. Gejaagd en gestriemd door wind en regen had deze omloop alles om legendarisch te worden.</description>
     </item>
