@@ -1,13 +1,13 @@
 ---
 author: de megabike organisatie
 type: post
-date: 2020-02-29
+date: 2021-02-27
 categories:
   - Verslagen
 params:
-  ParamBlogId: "OHN2020"
-title: "Omloop Het Nieuwsblad 2020"
-url: "Omloop-Het-Nieuwsblad-2020"
+  ParamBlogId: "OHN2021"
+title: "Omloop Het Nieuwsblad 2021"
+url: "Omloop-Het-Nieuwsblad-2021"
 output: html_document
 ---
 ## Verslag

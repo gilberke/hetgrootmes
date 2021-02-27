@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/Omloop-Het-Nieuwsblad-2021/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/verslagen/</loc>
+    <lastmod>2021-02-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/Kuurne-Brussel-Kuurne-2020/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/Omloop-Het-Nieuwsblad-2020/</loc>
+    <lastmod>2020-02-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/statistieken/deelnemers/</loc>
     <lastmod>2018-09-09T00:00:00+02:00</lastmod>
   </url>
@@ -14,11 +49,6 @@
   
   <url>
     <loc>/statistieken/meest-gelijke-ploegen/</loc>
-    <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2018-09-09T00:00:00+02:00</lastmod>
   </url>
   
@@ -84,10 +114,6 @@
   
   <url>
     <loc>/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
   </url>
   
   <url>

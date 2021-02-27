@@ -1,33 +1,38 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Verslagen on Megabike</title>
-    <link>https://hetgrootmes.netlify.com/categories/verslagen/</link>
+    <link>/categories/verslagen/</link>
     <description>Recent content in Verslagen on Megabike</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://hetgrootmes.netlify.com/categories/verslagen/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 27 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/verslagen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Omloop Het Nieuwsblad 2021</title>
+      <link>/Omloop-Het-Nieuwsblad-2021/</link>
+      <pubDate>Sat, 27 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/Omloop-Het-Nieuwsblad-2021/</guid>
+      <description>VerslagAlweer een jaartje rond en zoals de traditie het wil is het de Omloop die de spits van het Vlaamse voorjaar mag afbijten. Op voorhand zou je gedacht hebben dat alle renners als briesende stieren zouden vertrekken, niets is minder waar. Na 5km was de vroege vlucht van de dag gekend. 5 renners kozen het ruime sop. Onder hen De Bakker en een op de valreep opgeroepen De Ketele.</description>
+    </item>
     
     <item>
       <title>Kuurne-Brussel-Kuurne 2020</title>
-      <link>https://hetgrootmes.netlify.com/kuurne-brussel-kuurne-2020/</link>
+      <link>/Kuurne-Brussel-Kuurne-2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hetgrootmes.netlify.com/kuurne-brussel-kuurne-2020/</guid>
+      <guid>/Kuurne-Brussel-Kuurne-2020/</guid>
       <description>VerslagDe dag na de omloop staat traditiegetrouw het uitje van Kuurne naar Brussel en terug op de kalender. Normaal een revanche mogelijkheid voor ploegen met een sprinter die het gisteren liet afweten. Maar de organisatie wil daar een stokje voor steken door het parcours te wijzigen. We komen nu via Bellegem het plaatselijk parcours op en rijden maar 1 ronde. De koers zal uitwijzen of deze wijziging een meerwaarde is.</description>
     </item>
     
     <item>
       <title>Omloop Het Nieuwsblad 2020</title>
-      <link>https://hetgrootmes.netlify.com/omloop-het-nieuwsblad-2020/</link>
+      <link>/Omloop-Het-Nieuwsblad-2020/</link>
       <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://hetgrootmes.netlify.com/omloop-het-nieuwsblad-2020/</guid>
+      <guid>/Omloop-Het-Nieuwsblad-2020/</guid>
       <description>VerslagIn tijden waar een corona bestellen bij de afhaal Chinees niet grappig is. In tijden waar elke weekend gegeseld wordt door een nieuwe storm. Wordt koersen nog meer een uitdaging.
-Vandaag toch één zonnestraal, het Belgisch wielervoorjaar wordt op gang geschoten. Flandrien weer op bestelling, een uitdagend parcours met een finale voor de echte mannen. Gejaagd en gestriemd door wind en regen had deze omloop alles om legendarisch te worden.</description>
+Vandaag toch Ã©Ã©n zonnestraal, het Belgisch wielervoorjaar wordt op gang geschoten. Flandrien weer op bestelling, een uitdagend parcours met een finale voor de echte mannen. Gejaagd en gestriemd door wind en regen had deze omloop alles om legendarisch te worden.</description>
     </item>
     
   </channel>
