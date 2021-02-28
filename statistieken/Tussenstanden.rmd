@@ -24,7 +24,7 @@ R_PuntenPerKoers<-D_KoersenPuntenDeelnemers%>%rename(Koers=KNAAM,Tussenstand=TUS
 R_PuntenPerKoers$Jaar<-as.factor(as.character(R_PuntenPerKoers$Jaar))
 ZoekKolommen <- vector("list", 6) 
 ZoekKolommen[[1]]<-list(search=paste('["',Koers[1,"JAAR"],'"]',sep=''))
-ZoekKolommen[[2]]<-list(search=paste('["',Koers[1,"KNAAM"],'"]',sep=''))
+#ZoekKolommen[[2]]<-list(search=paste('["',Koers[1,"KNAAM"],'"]',sep=''))
 d1<-datatable(
   R_PuntenPerKoers,rownames = FALSE, filter = list(position = 'top', clear = FALSE)
   ,options = list(pageLength = 70, searchCols = ZoekKolommen ))
