@@ -1,13 +1,33 @@
 ---
-date: "2018-09-09T00:00:00+02:00"
-draft: false
+title: "Statistieken"
+draft: no
+date: '2018-09-09T00:00:00+02:00'
 menu:
   statistieken:
     name: Statistieken
     weight: 1
-title: Statistieken
-#toc: true
 type: docs
 ---
 
-Hier kan je verschillende statistieken bekijken.
+[Uitslagen](/statistieken/uitslagen/ "Uitslagen")
+
+[Tussenstanden](/statistieken/tussenstanden/ "Tussenstanden")
+
+[Uitslag Renners](/statistieken/Uitslag-Renners/ "Uitslag Renners")
+
+[Optimale Ploeg](/statistieken/Optimale-Ploeg/ "Optimale Ploeg")
+
+[Ploegen](/statistieken/ploegen/ "Ploegen")
+
+[Renners](/statistieken/renners/ "Renners")
+
+[Renners Aantal Gekozen](/statistieken/renners-aantal-gekozen/ "Renners Aantal Gekozen")
+
+[Meest Gelijke Ploegen](/statistieken/Meest-Gelijke-Ploegen/ "Meest Gelijke Ploegen")
+ 
+[Renners Aantal Gekozen](/statistieken/Renners-Aantal-Gekozen/ "Renners Aantal Gekozen")
+
+[Deelnemers](/statistieken/deelnemers/ "Deelnemers")
+
+[Eindafrekening](/statistieken/Eindafrekening/ "Eindafrekening")
+

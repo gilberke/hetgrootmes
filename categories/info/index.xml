@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Info on A Hugo website</title>
+    <link>/categories/info/</link>
+    <description>Recent content in Info on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Info</title>
+      <link>/info/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/info/</guid>
+      <description>RegelsEr is een dagprijs (inschrijvingsgeld) om het ook voor diegenen die meteen uit het peloton gelost zullen worden spannend te houden tot de laatste wedstrijd. Ook is er een beperking van maximaal één ploeg per deelnemer. Een samenvatting van de regels:
+Er tellen 17 wedstrijden mee, namelijk: Omloop Het Nieuwsblad, Kuurne-Brussel-Kuurne, Strade Bianchi, Nokere Koers, Bredene Koksijde Classic, Milaan-Sanremo, Dwars Door Vlaanderen, Eéndaagse Brugge-De Panne, E3 Prijs, Gent-Wevelgem, Ronde Van Vlaanderen, Scheldeprijs, Paris-Roubaix, Brabantse Pijl, Amstel Gold Race, Waalse Pijl, Luik-Bastenaken-Luik.</description>
+    </item>
+    
+  </channel>
+</rss>
