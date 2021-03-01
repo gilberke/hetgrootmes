@@ -22,9 +22,10 @@ rm(list=ls(pattern="_Jaar"),D_Ploegen,D_Renners,D_TotaalOpbrengsten,D_KoersenPun
 Koers<-D_Koersen%>%filter(TEVERWERKEN==TRUE)%>%mutate(KNAAM=as.character(KNAAM))%>%select(JAAR,KCODE,KNAAM,KOERSDATUM)
 R_PuntenPerKoers<-D_KoersenPuntenDeelnemers%>%rename(Koers=KNAAM,Tussenstand=TUSSENSTAND,Plaats=TUSSENPLAATS,Restbudget=RESTBUDGET,Naam=NAAM,Jaar=JAAR)%>%select(Jaar,Koers,Naam,Plaats,Tussenstand,Restbudget)%>%arrange(Plaats)
 R_PuntenPerKoers$Jaar<-as.factor(as.character(R_PuntenPerKoers$Jaar))
+R_PuntenPerKoers$Koers<-as.factor(as.character(R_PuntenPerKoers$Koers))
 ZoekKolommen <- vector("list", 6) 
 ZoekKolommen[[1]]<-list(search=paste('["',Koers[1,"JAAR"],'"]',sep=''))
-#ZoekKolommen[[2]]<-list(search=paste('["',Koers[1,"KNAAM"],'"]',sep=''))
+ZoekKolommen[[2]]<-list(search=paste('["',Koers[1,"KNAAM"],'"]',sep=''))
 d1<-datatable(
   R_PuntenPerKoers,rownames = FALSE, filter = list(position = 'top', clear = FALSE)
   ,options = list(pageLength = 70, searchCols = ZoekKolommen ))
