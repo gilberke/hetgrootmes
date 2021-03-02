@@ -17,13 +17,13 @@ output: html_document
 
 ```{r rLoadLibraries, echo=FALSE, results='hide',echo=FALSE,warning=FALSE,message=FALSE}
 library(tidyverse)
-library(pander)
+library(DT)
 load(file = "c:/DATA/MEGABIKE/WEBSITE/CODE/RMegabikeAlles.RData")
-PanderTableDataPuntenKoers<-D_KoersenPuntenDeelnemers%>%rename(Koers=KNAAM,Score=PUNTEN,Plaats=PLAATS,Restbudget=RESTBUDGET,Naam=NAAM,Jaar=JAAR)%>%filter(BLOGID==params$ParamBlogId)%>% select(Naam,Plaats,Score,Restbudget)%>%arrange((Plaats))
+DTTableDataPuntenKoers<-D_KoersenPuntenDeelnemers%>%rename(Koers=KNAAM,Score=PUNTEN,Plaats=PLAATS,Restbudget=RESTBUDGET,Naam=NAAM,Jaar=JAAR)%>%filter(BLOGID==params$ParamBlogId)%>% select(Naam,Plaats,Score,Restbudget)%>%arrange((Plaats))
 
-PanderTableDataTussenstandKoers<-D_KoersenPuntenDeelnemers%>%rename(Koers=KNAAM,Tussenstand=TUSSENSTAND,Plaats=TUSSENPLAATS,Restbudget=RESTBUDGET,Naam=NAAM,Jaar=JAAR)%>%filter(BLOGID==params$ParamBlogId)%>% select(Naam,Plaats,Tussenstand,Restbudget)%>%arrange((Plaats))
+DTTableDataTussenstandKoers<-D_KoersenPuntenDeelnemers%>%rename(Koers=KNAAM,Tussenstand=TUSSENSTAND,Plaats=TUSSENPLAATS,Restbudget=RESTBUDGET,Naam=NAAM,Jaar=JAAR)%>%filter(BLOGID==params$ParamBlogId)%>% select(Naam,Plaats,Tussenstand,Restbudget)%>%arrange((Plaats))
 
-PanderTableDataOptimalePloeg<-D_KoersenOptimalePloeg%>%rename(Koers=KNAAM,Score=SCORE,Kost=RPUNTEN,Naam=RNAAM,Jaar=JAAR)%>%filter(BLOGID==params$ParamBlogId)%>% select(Naam,Score,Kost)%>%arrange(desc(Score))
+DTTableDataOptimalePloeg<-D_KoersenOptimalePloeg%>%rename(Koers=KNAAM,Score=SCORE,Kost=RPUNTEN,Naam=RNAAM,Jaar=JAAR)%>%filter(BLOGID==params$ParamBlogId)%>% select(Naam,Score,Kost)%>%arrange(desc(Score))
 
 Verslag<-D_Verslagen%>%filter(BLOGID==params$ParamBlogId)%>%select(VERSLAG)
 Verslag<-Verslag[1,1]
@@ -38,20 +38,24 @@ cat(Verslag)
 ## Uitslag
 
 ```{r resUitslag, echo=FALSE, results='asis',warning=FALSE}
-pandoc.table(PanderTableDataPuntenKoers)
+d1<-datatable(DTTableDataPuntenKoers,rownames = FALSE,options = list(pageLength = 70))
+d1
+
 ```
 
 ## Tussenstand
 
 ```{r resTussenstand, echo=FALSE, results='asis',warning=FALSE}
-pandoc.table(PanderTableDataTussenstandKoers)
+d1<-datatable(DTTableDataTussenstandKoers,rownames = FALSE,options = list(pageLength = 70))
+d1
 ```
 
 
 ## Optimale ploeg
 
 ```{r resOptimale, echo=FALSE, results='asis',warning=FALSE}
-pandoc.table(PanderTableDataOptimalePloeg)
+d1<-datatable(DTTableDataOptimalePloeg,rownames = FALSE,options = list(pageLength = 12))
+d1
 ```
 
 
