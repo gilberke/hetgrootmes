@@ -10,12 +10,15 @@ title: "Kuurne-Brussel-Kuurne 2021"
 url: "Kuurne-Brussel-Kuurne-2021"
 output: html_document
 ---
+
+<center><img src="featured.png" alt="" /></center>
+
 ## Verslag
 
 ```{r rLoadLibraries, echo=FALSE, results='hide',echo=FALSE,warning=FALSE,message=FALSE}
 library(tidyverse)
 library(pander)
-load(file = "c:/DATA/MEGABIKE/CODESITE/CODE/RMegabikeAlles.RData")
+load(file = "c:/DATA/MEGABIKE/WEBSITE/CODE/RMegabikeAlles.RData")
 PanderTableDataPuntenKoers<-D_KoersenPuntenDeelnemers%>%rename(Koers=KNAAM,Score=PUNTEN,Plaats=PLAATS,Restbudget=RESTBUDGET,Naam=NAAM,Jaar=JAAR)%>%filter(BLOGID==params$ParamBlogId)%>% select(Naam,Plaats,Score,Restbudget)%>%arrange((Plaats))
 
 PanderTableDataTussenstandKoers<-D_KoersenPuntenDeelnemers%>%rename(Koers=KNAAM,Tussenstand=TUSSENSTAND,Plaats=TUSSENPLAATS,Restbudget=RESTBUDGET,Naam=NAAM,Jaar=JAAR)%>%filter(BLOGID==params$ParamBlogId)%>% select(Naam,Plaats,Tussenstand,Restbudget)%>%arrange((Plaats))
