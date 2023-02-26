@@ -38,7 +38,7 @@ cat(Verslag)
 ## Uitslag
 
 ```{r resUitslag, echo=FALSE, results='asis',warning=FALSE}
-d1<-datatable(DTTableDataPuntenKoers,rownames = FALSE,options = list(pageLength = 70))
+d1<-datatable(DTTableDataPuntenKoers,rownames = FALSE,options = list(pageLength = 82))
 d1
 
 ```
@@ -46,7 +46,7 @@ d1
 ## Tussenstand
 
 ```{r resTussenstand, echo=FALSE, results='asis',warning=FALSE}
-d1<-datatable(DTTableDataTussenstandKoers,rownames = FALSE,options = list(pageLength = 70))
+d1<-datatable(DTTableDataTussenstandKoers,rownames = FALSE,options = list(pageLength = 82))
 d1
 ```
 
