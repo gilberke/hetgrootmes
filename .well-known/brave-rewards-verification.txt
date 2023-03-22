@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: jolly-bohr-326994.netlify.app
+Token: f1c7a42a494efa3cb5f396412314c3e302e0865a9337823512bab9c81fe152f4
