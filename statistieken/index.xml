@@ -1,119 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Statistieken on Megabike</title>
-    <link>/statistieken/</link>
-    <description>Recent content in Statistieken on Megabike</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0200</lastBuildDate><atom:link href="/statistieken/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Deelnemers</title>
-      <link>/statistieken/deelnemers/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/deelnemers/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Deelnemers_files/figure-html//widgets/widget_resultaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
-    </item>
-    
-    <item>
-      <title>Eindafrekening</title>
-      <link>/statistieken/eindafrekening/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/eindafrekening/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Eindafrekening_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
-    </item>
-    
-    <item>
-      <title>Meest Gelijke Ploegen</title>
-      <link>/statistieken/meest-gelijke-ploegen/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/meest-gelijke-ploegen/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Meest-Gelijke-Ploegen_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
-    </item>
-    
-    <item>
-      <title>Optimale Ploeg</title>
-      <link>/statistieken/optimale-ploeg/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/optimale-ploeg/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Optimale-Ploeg_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
-    </item>
-    
-    <item>
-      <title>Overwinningen per Deelnemer</title>
-      <link>/statistieken/overwinningen-per-deelnemer/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/overwinningen-per-deelnemer/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Overwinningen-Per-Deelnemer_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
-    </item>
-    
-    <item>
-      <title>Ploegen</title>
-      <link>/statistieken/ploegen/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/ploegen/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Ploegen_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
-    </item>
-    
-    <item>
-      <title>Renners</title>
-      <link>/statistieken/renners/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/renners/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Renners_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
-    </item>
-    
-    <item>
-      <title>Renners Aantal Keer Gekozen</title>
-      <link>/statistieken/renners-aantal-gekozen/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/renners-aantal-gekozen/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Renners-Aantal-Gekozen_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
-    </item>
-    
-    <item>
-      <title>Renners Opbrengst</title>
-      <link>/statistieken/renners-opbrengst/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/renners-opbrengst/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Renners-Opbrengst_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
-    </item>
-    
-    <item>
-      <title>Tussenstanden</title>
-      <link>/statistieken/tussenstanden/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/tussenstanden/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Tussenstanden_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
-    </item>
-    
-    <item>
-      <title>Uitslagen</title>
-      <link>/statistieken/uitslagen/</link>
-      <pubDate>Sat, 08 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/uitslagen/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Uitslagen_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
-    </item>
-    
-    <item>
-      <title>Uitslagen Renners</title>
-      <link>/statistieken/uitslag-renners/</link>
-      <pubDate>Sat, 08 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/uitslag-renners/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Uitslag-Renners_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
-    </item>
-    
-  </channel>
-</rss>
