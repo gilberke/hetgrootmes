@@ -1,284 +1,121 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>/categories/</loc>
+    <loc>//localhost:4321/categories/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Luik-Bastenaken-Luik-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Luik-Bastenaken-Luik-2024/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+  </url><url>
+    <loc>//localhost:4321/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
+  </url><url>
+    <loc>//localhost:4321/post/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/verslagen/</loc>
+  </url><url>
+    <loc>//localhost:4321/categories/verslagen/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Waalse-Pijl-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Waalse-Pijl-2024/</loc>
     <lastmod>2024-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Amstel-Gold-Race-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Amstel-Gold-Race-2024/</loc>
     <lastmod>2024-04-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Brabantse-Pijl-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Brabantse-Pijl-2024/</loc>
     <lastmod>2024-04-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Paris-Roubaix-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Paris-Roubaix-2024/</loc>
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Scheldeprijs-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Scheldeprijs-2024/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Ronde-Van-Vlaanderen-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Ronde-Van-Vlaanderen-2024/</loc>
     <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Dwars-Door-Vlaanderen-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Dwars-Door-Vlaanderen-2024/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Gent-Wevelgem-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Gent-Wevelgem-2024/</loc>
     <lastmod>2024-03-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/E3-Prijs-Harelbeke-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/E3-Prijs-Harelbeke-2024/</loc>
     <lastmod>2024-03-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Driedaagse-Brugge-De-Panne-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Driedaagse-Brugge-De-Panne-2024/</loc>
     <lastmod>2024-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Milaan-Sanremo-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Milaan-Sanremo-2024/</loc>
     <lastmod>2024-03-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Bredene-Koksijde-Classic-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Bredene-Koksijde-Classic-2024/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Nokere-Koerse-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Nokere-Koerse-2024/</loc>
     <lastmod>2024-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Strade-Bianche-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Strade-Bianche-2024/</loc>
     <lastmod>2024-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Kuurne-Brussel-Kuurne-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Kuurne-Brussel-Kuurne-2024/</loc>
     <lastmod>2024-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Omloop-Het-Nieuwsblad-2024/</loc>
+  </url><url>
+    <loc>//localhost:4321/Omloop-Het-Nieuwsblad-2024/</loc>
     <lastmod>2024-02-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Luik-Bastenaken-Luik-2023/</loc>
-    <lastmod>2023-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Waalse-Pijl-2023/</loc>
-    <lastmod>2023-04-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Amstel-Gold-Race-2023/</loc>
-    <lastmod>2023-04-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Brabantse-Pijl-2023/</loc>
-    <lastmod>2023-04-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Paris-Roubaix-2023/</loc>
-    <lastmod>2023-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Scheldeprijs-2023/</loc>
-    <lastmod>2023-04-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Ronde-Van-Vlaanderen-2023/</loc>
-    <lastmod>2023-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Dwars-Door-Vlaanderen-2023/</loc>
-    <lastmod>2023-03-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Gent-Wevelgem-2023/</loc>
-    <lastmod>2023-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/E3-Prijs-Harelbeke-2023/</loc>
-    <lastmod>2023-03-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Driedaagse-Brugge-De-Panne-2023/</loc>
-    <lastmod>2023-03-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Milaan-Sanremo-2023/</loc>
-    <lastmod>2023-03-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Bredene-Koksijde-Classic-2023/</loc>
-    <lastmod>2023-03-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Nokere-Koerse-2023/</loc>
-    <lastmod>2023-03-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Strade-Bianche-2023/</loc>
-    <lastmod>2023-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Kuurne-Brussel-Kuurne-2023/</loc>
-    <lastmod>2023-02-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/Omloop-Het-Nieuwsblad-2023/</loc>
-    <lastmod>2023-02-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/info/</loc>
+  </url><url>
+    <loc>//localhost:4321/categories/info/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/info/</loc>
+  </url><url>
+    <loc>//localhost:4321/Info/</loc>
     <lastmod>2020-03-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/statistieken/deelnemers/</loc>
+  </url><url>
+    <loc>//localhost:4321/statistieken/deelnemers/</loc>
     <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/statistieken/eindafrekening/</loc>
+  </url><url>
+    <loc>//localhost:4321/statistieken/eindafrekening/</loc>
     <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/statistieken/meest-gelijke-ploegen/</loc>
+  </url><url>
+    <loc>//localhost:4321/statistieken/meest-gelijke-ploegen/</loc>
     <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/statistieken/optimale-ploeg/</loc>
+  </url><url>
+    <loc>//localhost:4321/statistieken/optimale-ploeg/</loc>
     <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/statistieken/overwinningen-per-deelnemer/</loc>
+  </url><url>
+    <loc>//localhost:4321/statistieken/overwinningen-per-deelnemer/</loc>
     <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/statistieken/ploegen/</loc>
+  </url><url>
+    <loc>//localhost:4321/statistieken/ploegen/</loc>
     <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/statistieken/renners/</loc>
+  </url><url>
+    <loc>//localhost:4321/statistieken/renners/</loc>
     <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/statistieken/renners-aantal-gekozen/</loc>
+  </url><url>
+    <loc>//localhost:4321/statistieken/renners-aantal-gekozen/</loc>
     <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/statistieken/renners-opbrengst/</loc>
+  </url><url>
+    <loc>//localhost:4321/statistieken/renners-opbrengst/</loc>
     <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/statistieken/</loc>
+  </url><url>
+    <loc>//localhost:4321/statistieken/</loc>
     <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/statistieken/tussenstanden/</loc>
+  </url><url>
+    <loc>//localhost:4321/statistieken/tussenstanden/</loc>
     <lastmod>2018-09-09T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/statistieken/uitslagen/</loc>
+  </url><url>
+    <loc>//localhost:4321/statistieken/uitslagen/</loc>
     <lastmod>2018-09-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/statistieken/uitslag-renners/</loc>
+  </url><url>
+    <loc>//localhost:4321/statistieken/uitslag-renners/</loc>
     <lastmod>2018-09-08T00:00:00+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
+  </url><url>
+    <loc>//localhost:4321/about/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/inschrijving/</loc>
+  </url><url>
+    <loc>//localhost:4321/Inschrijving/</loc>
     <lastmod>2016-04-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/tags/</loc>
   </url>
-  
-  <url>
-    <loc>/tags/</loc>
-  </url>
-  
 </urlset>

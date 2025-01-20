@@ -2,20 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Info on Megabike</title>
-    <link>/categories/info/</link>
+    <link>//localhost:4321/categories/info/</link>
     <description>Recent content in Info on Megabike</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/info/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/categories/info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Info</title>
-      <link>/info/</link>
+      <link>//localhost:4321/Info/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/info/</guid>
-      <description>RegelsEr is een dagprijs (inschrijvingsgeld) om het ook voor diegenen die meteen uit het peloton gelost zullen worden spannend te houden tot de laatste wedstrijd. Ook is er een beperking van maximaal één ploeg per deelnemer. Een samenvatting van de regels:
-Er tellen 17 wedstrijden mee, namelijk: Omloop Het Nieuwsblad, Kuurne-Brussel-Kuurne, Strade Bianchi, Nokere Koers, Bredene Koksijde Classic, Milaan-Sanremo, Dwars Door Vlaanderen, Eéndaagse Brugge-De Panne, E3 Prijs, Gent-Wevelgem, Ronde Van Vlaanderen, Scheldeprijs, Paris-Roubaix, Brabantse Pijl, Amstel Gold Race, Waalse Pijl, Luik-Bastenaken-Luik.</description>
+      <guid>//localhost:4321/Info/</guid>
+      <description>&lt;script src=&#34;//localhost:4321/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div id=&#34;regels&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Regels&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Er is een dagprijs (inschrijvingsgeld) om het ook voor diegenen die meteen uit het peloton gelost zullen worden spannend te houden tot de laatste wedstrijd. Ook is er een beperking van maximaal één ploeg per deelnemer. Een samenvatting van de regels:&lt;/p&gt;&#xD;&#xA;&lt;ul&gt;&#xD;&#xA;&lt;li&gt;Er tellen 17 wedstrijden mee, namelijk: Omloop Het Nieuwsblad, Kuurne-Brussel-Kuurne, Strade Bianchi, Nokere Koers, Bredene Koksijde Classic, Milaan-Sanremo, Dwars Door Vlaanderen, Eéndaagse Brugge-De Panne, E3 Prijs, Gent-Wevelgem, Ronde Van Vlaanderen, Scheldeprijs, Paris-Roubaix, Brabantse Pijl, Amstel Gold Race, Waalse Pijl, Luik-Bastenaken-Luik. Er zijn verschillende inschalingen voor de wedstrijden met dus verschillende punten, dit kan u verderop lezen.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;De waarden van de renners hebben we zelf berekend en zijn per renner de gewogen som van de punten behaald in de relevante wedstrijden over de laatste 3 jaar. Punten behaald 3 jaar geleden werden gewogen met een factor 0.8, die van 2 jaar geleden met een factor 1 en die van vorig jaar met 1.2. De rennerslijst vindt u HIER. Wilt u toch een renner selecteren die niet in deze lijst voorkomt? Dit kan op eigen risico en tegen een kost van 0. Zorg wel voor een juiste schrijfwijze, zodat uw organisatoren de renner in kwestie kunnen terugvinden. Je moet nog altijd exact 12 renners selecteren met een maximale totale waarde van 5000! punten.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Voor de puntentelling volgen we de officiële CQ-puntentelling. De 17 wedstrijden vallen in 3 categorieën (WT1, WT2, HC) elk met hun eigen puntentelling. Er worden geen punten toegekend aan strijdlustige renners.&lt;/li&gt;&#xD;&#xA;&lt;li&gt;Wanneer meerdere deelnemers met gelijke punten eindigen, wint degene met het hoogste resterende budget (zowel dagprijs als eindklassement). Indien ook dit gelijk is, wordt het prijzengeld verdeeld over de deelnemers met gelijke punten.&lt;/li&gt;&#xD;&#xA;&lt;/ul&gt;&#xD;&#xA;&lt;p&gt;Meerdere ploegen per persoon zijn dus niet toegelaten. Bij inschrijving betaal je 5€, zie voor meer info je email. Inschrijven kan tot middernacht voor de Omloop het Nieuwsblad.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

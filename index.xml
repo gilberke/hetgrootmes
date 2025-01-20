@@ -2,471 +2,221 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Megabike</title>
-    <link>/</link>
+    <link>//localhost:4321/</link>
     <description>Recent content on Megabike</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Luik-Bastenaken-Luik 2024</title>
-      <link>/Luik-Bastenaken-Luik-2024/</link>
+      <link>//localhost:4321/Luik-Bastenaken-Luik-2024/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Luik-Bastenaken-Luik-2024/</guid>
-      <description>VerslagMenig veldrijder zal met extra kriebels in de buik opgestaan zijn deze morgen bij de start van Luik Bastenaken Luik, oftewel Neige Bastogne Neige. Oververhitten zit er niet in vandaag, onderkoelen daarentegen…
-Traditiegetrouw is er een vroege vlucht met Gelders, Rochas, Leijnse, Scaroni, Calmejane, Romeo, Doubey, Ourselin en de lokale held Vliegen. Hun maximale voorsprong bedroeg ruim 4 minuten.De Emiraten controleren de vlucht voor hun hoogvlieger Pogacar.</description>
+      <guid>//localhost:4321/Luik-Bastenaken-Luik-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Luik-Bastenaken-Luik-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Luik-Bastenaken-Luik-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Luik-Bastenaken-Luik-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Luik-Bastenaken-Luik-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Luik-Bastenaken-Luik-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Luik-Bastenaken-Luik-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Luik-Bastenaken-Luik-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Luik-Bastenaken-Luik-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Luik-Bastenaken-Luik-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Luik-Bastenaken-Luik-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Menig veldrijder zal met extra kriebels in de buik opgestaan zijn deze morgen bij de start van Luik Bastenaken Luik, oftewel Neige Bastogne Neige. Oververhitten zit er niet in vandaag, onderkoelen daarentegen…&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Traditiegetrouw is er een vroege vlucht met Gelders, Rochas, Leijnse, Scaroni, Calmejane, Romeo, Doubey, Ourselin en de lokale held Vliegen. Hun maximale voorsprong bedroeg ruim 4 minuten.&#xD;&#xA;De Emiraten controleren de vlucht voor hun hoogvlieger Pogacar.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Waalse Pijl 2024</title>
-      <link>/Waalse-Pijl-2024/</link>
+      <link>//localhost:4321/Waalse-Pijl-2024/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Waalse-Pijl-2024/</guid>
-      <description>VerslagTien sterke rennersdie fietsten in de regen,Skjelmose begon te schudden,toen waren ze nog met negen
-Negen klamme rennersmaakten op Soren jacht,Pidcock draaide aftoen waren ze nog met acht
-Acht slechtweerrennersbegonnen collectief te beven,UAE gaf collectief op,toen waren ze nog met zeven
-Zeven verkleumde lijvenzo scherp als een mesook Teuns wordt weggeblazentoen waren ze nog met zes</description>
+      <guid>//localhost:4321/Waalse-Pijl-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Waalse-Pijl-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Waalse-Pijl-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Waalse-Pijl-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Waalse-Pijl-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Waalse-Pijl-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Waalse-Pijl-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Waalse-Pijl-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Waalse-Pijl-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Waalse-Pijl-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Waalse-Pijl-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Tien sterke renners&#xD;&#xA;die fietsten in de regen,&#xD;&#xA;Skjelmose begon te schudden,&#xD;&#xA;toen waren ze nog met negen&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Negen klamme renners&#xD;&#xA;maakten op Soren jacht,&#xD;&#xA;Pidcock draaide af&#xD;&#xA;toen waren ze nog met acht&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Acht slechtweerrenners&#xD;&#xA;begonnen collectief te beven,&#xD;&#xA;UAE gaf collectief op,&#xD;&#xA;toen waren ze nog met zeven&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Zeven verkleumde lijven&#xD;&#xA;zo scherp als een mes&#xD;&#xA;ook Teuns wordt weggeblazen&#xD;&#xA;toen waren ze nog met zes&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Amstel Gold Race 2024</title>
-      <link>/Amstel-Gold-Race-2024/</link>
+      <link>//localhost:4321/Amstel-Gold-Race-2024/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Amstel-Gold-Race-2024/</guid>
-      <description>VerslagVoor het bier hoef je het niet te doen. Het criterium van Valkenburg biedt meer dan lauwe pils.
-Koersen door berg en dal, links recht op en neer. Vrouwen moeten wachten, mannen doen een heuvel minder.
-Vier vroege vluchters die na lang vechten voorop geraken. Op 80km terug ingerekend.
-Louis Vervaeke wil weg voor de Loorberg, Honoré en Lapeira willen mee anticiperen.</description>
+      <guid>//localhost:4321/Amstel-Gold-Race-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Amstel-Gold-Race-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Amstel-Gold-Race-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Amstel-Gold-Race-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Amstel-Gold-Race-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Amstel-Gold-Race-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Amstel-Gold-Race-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Amstel-Gold-Race-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Amstel-Gold-Race-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Amstel-Gold-Race-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Amstel-Gold-Race-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Voor het bier hoef je het niet te doen. Het criterium van Valkenburg biedt meer dan lauwe pils.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Koersen door berg en dal, links recht op en neer. Vrouwen moeten wachten, mannen doen een heuvel minder.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Vier vroege vluchters die na lang vechten voorop geraken. Op 80km terug ingerekend.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Louis Vervaeke wil weg voor de Loorberg, Honoré en Lapeira willen mee anticiperen.&#xD;&#xA;Nerveus gedoe in het Peloton, we scheren hagen en graskanten.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Brabantse Pijl 2024</title>
-      <link>/Brabantse-Pijl-2024/</link>
+      <link>//localhost:4321/Brabantse-Pijl-2024/</link>
       <pubDate>Wed, 10 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Brabantse-Pijl-2024/</guid>
-      <description>VerslagIn megabike is de dagzege voor Jan Lewylle, hij scoort even veel als Senne Dessers (Les baroudeurs), maar heeft net wat meer restbudget. Arnout Verkaemer (Carbon Velgje en de 7 Shifters) staat ook mee op het podium!
-In de tussenstand blijft Wout Van Breedam (Pelikaan) op kop voor Jan Bosch &amp;amp; Peter Dierick (King Kelly III).
-Uitslagen, Eindstand &amp;amp; optimale ploeg kan je vinden onder het verslag op de website: https://jolly-bohr-326994.</description>
+      <guid>//localhost:4321/Brabantse-Pijl-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Brabantse-Pijl-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Brabantse-Pijl-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Brabantse-Pijl-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Brabantse-Pijl-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Brabantse-Pijl-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Brabantse-Pijl-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Brabantse-Pijl-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Brabantse-Pijl-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Brabantse-Pijl-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Brabantse-Pijl-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;In megabike is de dagzege voor Jan Lewylle, hij scoort even veel als Senne Dessers (Les baroudeurs), maar heeft net wat meer restbudget. Arnout Verkaemer (Carbon Velgje en de 7 Shifters) staat ook mee op het podium!&lt;/p&gt;&#xD;&#xA;&lt;p&gt;In de tussenstand blijft Wout Van Breedam (Pelikaan) op kop voor Jan Bosch &amp;amp; Peter Dierick (King Kelly III).&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Uitslagen, Eindstand &amp;amp; optimale ploeg kan je vinden onder het verslag op de website: &lt;a href=&#34;https://jolly-bohr-326994.netlify.app/&#34; class=&#34;uri&#34;&gt;https://jolly-bohr-326994.netlify.app/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Paris-Roubaix 2024</title>
-      <link>/Paris-Roubaix-2024/</link>
+      <link>//localhost:4321/Paris-Roubaix-2024/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Paris-Roubaix-2024/</guid>
-      <description>VerslagDe wielergoden eisten de voorbije weken enkele grote namen op het offerblok. Ook bij deze koers is het niet anders. Bij een val verliezen we meteen Milan en Viviani. Menig renner moet verder met blote billen.
-We krijgen een vroege vlucht in twee schijven. Een groep van 7 met Asgreen, Tiller, Hagenes, Haller, Slock, Syritsa en Malecki. De Bondt en Rajovic komen na een lange jacht ook aansluiten.</description>
+      <guid>//localhost:4321/Paris-Roubaix-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Paris-Roubaix-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Paris-Roubaix-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Paris-Roubaix-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Paris-Roubaix-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Paris-Roubaix-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Paris-Roubaix-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Paris-Roubaix-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Paris-Roubaix-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Paris-Roubaix-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Paris-Roubaix-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;De wielergoden eisten de voorbije weken enkele grote namen op het offerblok. Ook bij deze koers is het niet anders. Bij een val verliezen we meteen Milan en Viviani. Menig renner moet verder met blote billen.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;We krijgen een vroege vlucht in twee schijven. Een groep van 7 met Asgreen, Tiller, Hagenes, Haller, Slock, Syritsa en Malecki. De Bondt en Rajovic komen na een lange jacht ook aansluiten.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Scheldeprijs 2024</title>
-      <link>/Scheldeprijs-2024/</link>
+      <link>//localhost:4321/Scheldeprijs-2024/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Scheldeprijs-2024/</guid>
-      <description>VerslagWind en regen, ingrediënten voor een nerveuze koers. Het is niet lang wachten op een valpartij in het Peloton. Thijsen maait zijn ploegmaat Marit onderuit en beide moeten opgeven. Wat volgt is een intermezzo met waaiers die wat verbrokkeling brengen, maar alles loopt weer samen.
-Tussen Hoogstraten en Brecht komt een vijfkoppige kopgroep tot stand. Lock, Van Hemelen, Planckaert, Huens en Appel vormen vandaag de rode lap voor het aanstormende peloton.</description>
+      <guid>//localhost:4321/Scheldeprijs-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Scheldeprijs-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Scheldeprijs-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Scheldeprijs-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Scheldeprijs-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Scheldeprijs-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Scheldeprijs-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Scheldeprijs-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Scheldeprijs-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Scheldeprijs-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Scheldeprijs-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Wind en regen, ingrediënten voor een nerveuze koers. Het is niet lang wachten op een valpartij in het Peloton. Thijsen maait zijn ploegmaat Marit onderuit en beide moeten opgeven. Wat volgt is een intermezzo met waaiers die wat verbrokkeling brengen, maar alles loopt weer samen.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Tussen Hoogstraten en Brecht komt een vijfkoppige kopgroep tot stand. Lock, Van Hemelen, Planckaert, Huens en Appel vormen vandaag de rode lap voor het aanstormende peloton.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Ronde Van Vlaanderen 2024</title>
-      <link>/Ronde-Van-Vlaanderen-2024/</link>
+      <link>//localhost:4321/Ronde-Van-Vlaanderen-2024/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Ronde-Van-Vlaanderen-2024/</guid>
-      <description>VerslagZaligen Hoogdag! Vlaanderen is in feeststemming en klaar voor het volksfeest van het jaar.
-Dit jaar startte de Ronde weer in Antwerpen, wat de kans op waaiers aanzienlijk verminderde. We kregen al vrij snel de traditionele kopgroep van 8 renners met Aniolkowski, Dekker, Durbridge, Reinders, Taminiaux, Touzé, Van Lerberghe en Vermoote. Zij kregen de goedkeuring van de topploegen en kregen vier minuten cadeau.</description>
+      <guid>//localhost:4321/Ronde-Van-Vlaanderen-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Ronde-Van-Vlaanderen-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Ronde-Van-Vlaanderen-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Ronde-Van-Vlaanderen-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Ronde-Van-Vlaanderen-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Ronde-Van-Vlaanderen-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Ronde-Van-Vlaanderen-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Ronde-Van-Vlaanderen-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Ronde-Van-Vlaanderen-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Ronde-Van-Vlaanderen-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Ronde-Van-Vlaanderen-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Zaligen Hoogdag! Vlaanderen is in feeststemming en klaar voor het volksfeest van het jaar.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Dit jaar startte de Ronde weer in Antwerpen, wat de kans op waaiers aanzienlijk verminderde. We kregen al vrij snel de traditionele kopgroep van 8 renners met Aniolkowski, Dekker, Durbridge, Reinders, Taminiaux, Touzé, Van Lerberghe en Vermoote. Zij kregen de goedkeuring van de topploegen en kregen vier minuten cadeau.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Dwars Door Vlaanderen 2024</title>
-      <link>/Dwars-Door-Vlaanderen-2024/</link>
+      <link>//localhost:4321/Dwars-Door-Vlaanderen-2024/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Dwars-Door-Vlaanderen-2024/</guid>
-      <description>VerslagIn Roeselare gingen ze van start, daar waar Lampaert als broekventje school liep. Als enige ex-winnaar aan de start, voelt hij zich misschien ook weer een broekventje met namen als Van Aert, Pedersen en Stuyven aan de start.
-Je merkt al meteen dat Quickstep het geweer van schouder verandert, want er glipt een mannetje mee in de kopgroep van 11, die pas na een uur koersen tot stand komt.</description>
+      <guid>//localhost:4321/Dwars-Door-Vlaanderen-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Dwars-Door-Vlaanderen-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Dwars-Door-Vlaanderen-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Dwars-Door-Vlaanderen-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Dwars-Door-Vlaanderen-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Dwars-Door-Vlaanderen-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Dwars-Door-Vlaanderen-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Dwars-Door-Vlaanderen-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Dwars-Door-Vlaanderen-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Dwars-Door-Vlaanderen-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Dwars-Door-Vlaanderen-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;In Roeselare gingen ze van start, daar waar Lampaert als broekventje school liep. Als enige ex-winnaar aan de start, voelt hij zich misschien ook weer een broekventje met namen als Van Aert, Pedersen en Stuyven aan de start.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Je merkt al meteen dat Quickstep het geweer van schouder verandert, want er glipt een mannetje mee in de kopgroep van 11, die pas na een uur koersen tot stand komt. Naast Casper Pedersen hebben we De Pooter, De Bondt, Norsgaard, Grondin, Märkl, Jansen, Eenkhoorn, Abrahamsen, Gachinard en Vercouillie.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Gent-Wevelgem 2024</title>
-      <link>/Gent-Wevelgem-2024/</link>
+      <link>//localhost:4321/Gent-Wevelgem-2024/</link>
       <pubDate>Sun, 24 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Gent-Wevelgem-2024/</guid>
-      <description>VerslagIn Flanders fields staan de poppies nog niet in bloei, maar tekenen de wind en een geaccidenteerd parcours wel present voor deze Gent Wevelgem. Sinds de weersvoorspellingen duidelijk maakten dat op de dag van de koers de wind gunstig en hard genoeg zou staan om er een waaierkoers van te maken kreeg menig wielerliefhebber visoenen van renners en de gracht en graskant.</description>
+      <guid>//localhost:4321/Gent-Wevelgem-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Gent-Wevelgem-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Gent-Wevelgem-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Gent-Wevelgem-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Gent-Wevelgem-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Gent-Wevelgem-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Gent-Wevelgem-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Gent-Wevelgem-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Gent-Wevelgem-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Gent-Wevelgem-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Gent-Wevelgem-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;In Flanders fields staan de poppies nog niet in bloei, maar tekenen de wind en een geaccidenteerd parcours wel present voor deze Gent Wevelgem. Sinds de weersvoorspellingen duidelijk maakten dat op de dag van de koers de wind gunstig en hard genoeg zou staan om er een waaierkoers van te maken kreeg menig wielerliefhebber visoenen van renners en de gracht en graskant. Waaiers de natte droom van elke wielerfreak.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>E3 Prijs Harelbeke 2024</title>
-      <link>/E3-Prijs-Harelbeke-2024/</link>
+      <link>//localhost:4321/E3-Prijs-Harelbeke-2024/</link>
       <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/E3-Prijs-Harelbeke-2024/</guid>
-      <description>VerslagVan a 1, van a 2, van a valpartie. al na 10km was het zover. Een tiental renners gaan tegen de vlakte bij wat de generale repetitiekoers voor de ronde wordt genoemd. De Visma man Hagenes moet opgeven, Van Aert al meteen met een mannetje minder.
-Het eerste uur is er geen ontkomen aan het peloton. Ineos en de visma’s hebben haast en halen 51,5km in het eerste wedstrijduur.</description>
+      <guid>//localhost:4321/E3-Prijs-Harelbeke-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/E3-Prijs-Harelbeke-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/E3-Prijs-Harelbeke-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/E3-Prijs-Harelbeke-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/E3-Prijs-Harelbeke-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/E3-Prijs-Harelbeke-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/E3-Prijs-Harelbeke-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/E3-Prijs-Harelbeke-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/E3-Prijs-Harelbeke-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/E3-Prijs-Harelbeke-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/E3-Prijs-Harelbeke-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Van a 1, van a 2, van a valpartie. al na 10km was het zover. Een tiental renners gaan tegen de vlakte bij wat de generale repetitiekoers voor de ronde wordt genoemd. De Visma man Hagenes moet opgeven, Van Aert al meteen met een mannetje minder.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Het eerste uur is er geen ontkomen aan het peloton. Ineos en de visma’s hebben haast en halen 51,5km in het eerste wedstrijduur. De trein raast almaar sneller over Vlaamse wegen.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Driedaagse Brugge-De Panne 2024</title>
-      <link>/Driedaagse-Brugge-De-Panne-2024/</link>
+      <link>//localhost:4321/Driedaagse-Brugge-De-Panne-2024/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Driedaagse-Brugge-De-Panne-2024/</guid>
-      <description>VerslagNa een weekendtripje naar de Laars, komen ’s werelds snelste sprinters weer naar West-Vlaanderen afgezakt om in het hoekje van de provincie te betwisten wie de beste benen heeft.
-De twee grootste favorieten zijn Nokerelaureaat Merlier en primaveraprimadonna Philipsen. Die laatste had ook wat lenteweer meegebracht, want in tegenstelling tot vorig jaar kregen we de zon te zien, een aangename temperatuur en geen wind.</description>
+      <guid>//localhost:4321/Driedaagse-Brugge-De-Panne-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Driedaagse-Brugge-De-Panne-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Driedaagse-Brugge-De-Panne-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Driedaagse-Brugge-De-Panne-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Driedaagse-Brugge-De-Panne-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Driedaagse-Brugge-De-Panne-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Driedaagse-Brugge-De-Panne-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Driedaagse-Brugge-De-Panne-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Driedaagse-Brugge-De-Panne-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Driedaagse-Brugge-De-Panne-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Driedaagse-Brugge-De-Panne-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Na een weekendtripje naar de Laars, komen ’s werelds snelste sprinters weer naar West-Vlaanderen afgezakt om in het hoekje van de provincie te betwisten wie de beste benen heeft.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;De twee grootste favorieten zijn Nokerelaureaat Merlier en primaveraprimadonna Philipsen. Die laatste had ook wat lenteweer meegebracht, want in tegenstelling tot vorig jaar kregen we de zon te zien, een aangename temperatuur en geen wind.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Milaan-Sanremo 2024</title>
-      <link>/Milaan-Sanremo-2024/</link>
+      <link>//localhost:4321/Milaan-Sanremo-2024/</link>
       <pubDate>Sat, 16 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Milaan-Sanremo-2024/</guid>
-      <description>VerslagMilaan - San Remo de klassieker over 288km maagdelijk glad asfalt. De koers van de lange geeuw. Na 20km rijden, vliegen 11 vluchters weg. Ze worden lang op anderhalve minuut gehouden. Er was een renner van Groupama mee, maar Kung had hem liever terug bij zich. 11-1=10.
-De voorsprong schommelt steeds tussen anderhalve en drie minuten. Trek en Alpecin houden alles onder controle.</description>
+      <guid>//localhost:4321/Milaan-Sanremo-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Milaan-Sanremo-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Milaan-Sanremo-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Milaan-Sanremo-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Milaan-Sanremo-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Milaan-Sanremo-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Milaan-Sanremo-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Milaan-Sanremo-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Milaan-Sanremo-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Milaan-Sanremo-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Milaan-Sanremo-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Milaan - San Remo de klassieker over 288km maagdelijk glad asfalt. De koers van de lange geeuw. Na 20km rijden, vliegen 11 vluchters weg. Ze worden lang op anderhalve minuut gehouden. Er was een renner van Groupama mee, maar Kung had hem liever terug bij zich. 11-1=10.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;De voorsprong schommelt steeds tussen anderhalve en drie minuten. Trek en Alpecin houden alles onder controle.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Bredene Koksijde Classic 2024</title>
-      <link>/Bredene-Koksijde-Classic-2024/</link>
+      <link>//localhost:4321/Bredene-Koksijde-Classic-2024/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Bredene-Koksijde-Classic-2024/</guid>
-      <description>VerslagGejaagd door de wind (met hulp van AI)
-Het was een dag waarop de zon zich als een verlegen minnaar achter de wolken verschool. De Bredene Koksijde Classic, een koers die de harten van de wielerliefhebbers sneller deed kloppen, begon met een zucht van de wind en een knipoog van het lot.
-De renners stonden aan de startlijn, hun benen als stalen kabels gespannen.</description>
+      <guid>//localhost:4321/Bredene-Koksijde-Classic-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Bredene-Koksijde-Classic-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Bredene-Koksijde-Classic-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Bredene-Koksijde-Classic-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Bredene-Koksijde-Classic-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Bredene-Koksijde-Classic-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Bredene-Koksijde-Classic-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Bredene-Koksijde-Classic-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Bredene-Koksijde-Classic-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Bredene-Koksijde-Classic-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Bredene-Koksijde-Classic-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Gejaagd door de wind (met hulp van AI)&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Het was een dag waarop de zon zich als een verlegen minnaar achter de wolken verschool. De Bredene Koksijde Classic, een koers die de harten van de wielerliefhebbers sneller deed kloppen, begon met een zucht van de wind en een knipoog van het lot.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;De renners stonden aan de startlijn, hun benen als stalen kabels gespannen. Arnaud De Lie, een man met de vastberadenheid van een monnik en de souplesse van een ballerina, keek naar zijn fiets alsof het een oude vriend was. Hij wist dat dit zijn moment was, zijn kans om de geschiedenis te schrijven op de Vlaamse wegen.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Nokere Koerse 2024</title>
-      <link>/Nokere-Koerse-2024/</link>
+      <link>//localhost:4321/Nokere-Koerse-2024/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Nokere-Koerse-2024/</guid>
-      <description>VerslagOp het plaatselijke voetbalveld naast het voedselbos in Nokere prijkt er nu een VIP-dorp van jewelste en waar we vroeger met een vergrootglas moesten zoeken naar enige namen van betekenis, was Nokere dit jaar gastdorp van veel namen met allure. Ex-Europese kampioenen Jakobsen en Viviani, Philipsen, Wellens, Kung, Pascalleke Ackerman, Dimitri Peyskens, Marckske Sarreau, Oscar Riesebeek, Dries De Pooter, ook gekend als DDP en natuurlijk tweevoudig Belgisch kampioen en tweemaal Nokere winnaar Tim Merlier.</description>
+      <guid>//localhost:4321/Nokere-Koerse-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Nokere-Koerse-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Nokere-Koerse-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Nokere-Koerse-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Nokere-Koerse-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Nokere-Koerse-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Nokere-Koerse-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Nokere-Koerse-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Nokere-Koerse-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Nokere-Koerse-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Nokere-Koerse-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Op het plaatselijke voetbalveld naast het voedselbos in Nokere prijkt er nu een VIP-dorp van jewelste en waar we vroeger met een vergrootglas moesten zoeken naar enige namen van betekenis, was Nokere dit jaar gastdorp van veel namen met allure. Ex-Europese kampioenen Jakobsen en Viviani, Philipsen, Wellens, Kung, Pascalleke Ackerman, Dimitri Peyskens, Marckske Sarreau, Oscar Riesebeek, Dries De Pooter, ook gekend als DDP en natuurlijk tweevoudig Belgisch kampioen en tweemaal Nokere winnaar Tim Merlier. Zou hij net als hattrick-Hendrik Van Dyck voor een derde maal op rij kunnen scoren en zo Trio Tim worden?&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Strade Bianche 2024</title>
-      <link>/Strade-Bianche-2024/</link>
+      <link>//localhost:4321/Strade-Bianche-2024/</link>
       <pubDate>Sat, 02 Mar 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Strade-Bianche-2024/</guid>
-      <description>VerslagHet peloton verwacht vandaag een zonnige koers op de witte wegen. Maar niets is minder waar. Sienna is gehuld in een sluier van grijze wolken waar nu en dan wat druppels uitvallen. Witte wegen worden zo al snel bruine verraderlijke rotstroken, waar gevaar in kleine hoekjes zit.
-De 71km sterrato en de 30km extra koers schrikken blijkbaar niet af, want in het eerst uur wordt 44km afgelegd.</description>
+      <guid>//localhost:4321/Strade-Bianche-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Strade-Bianche-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Strade-Bianche-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Strade-Bianche-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Strade-Bianche-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Strade-Bianche-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Strade-Bianche-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Strade-Bianche-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Strade-Bianche-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Strade-Bianche-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Strade-Bianche-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;Het peloton verwacht vandaag een zonnige koers op de witte wegen. Maar niets is minder waar. Sienna is gehuld in een sluier van grijze wolken waar nu en dan wat druppels uitvallen. Witte wegen worden zo al snel bruine verraderlijke rotstroken, waar gevaar in kleine hoekjes zit.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;De 71km sterrato en de 30km extra koers schrikken blijkbaar niet af, want in het eerst uur wordt 44km afgelegd. 5 mannen kiezen het ruime sop, maar op 100km voor de meet loopt alles weer samen. De koers wordt nu vooraan in het peloton gereden.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kuurne-Brussel-Kuurne 2024</title>
-      <link>/Kuurne-Brussel-Kuurne-2024/</link>
+      <link>//localhost:4321/Kuurne-Brussel-Kuurne-2024/</link>
       <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Kuurne-Brussel-Kuurne-2024/</guid>
-      <description>VerslagKBK het tweede deel van het tweeluik van het Vlaamse openingsweekend heeft vandaag een einde gemaakt aan deze start van het klassieke voorjaar.
-Eindelijk is KBK thuisgekomen in de stad met een lange traditie in het organiseren van BK’s. Al in 1302 werd het eerste BK Fransoos een goedendag meppen er georganiseerd. Ook toen werden de topfavorieten Breydel en De Coninck bejubeld op het startpodium.</description>
+      <guid>//localhost:4321/Kuurne-Brussel-Kuurne-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Kuurne-Brussel-Kuurne-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Kuurne-Brussel-Kuurne-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Kuurne-Brussel-Kuurne-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Kuurne-Brussel-Kuurne-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Kuurne-Brussel-Kuurne-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Kuurne-Brussel-Kuurne-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Kuurne-Brussel-Kuurne-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Kuurne-Brussel-Kuurne-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Kuurne-Brussel-Kuurne-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Kuurne-Brussel-Kuurne-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;KBK het tweede deel van het tweeluik van het Vlaamse openingsweekend heeft vandaag een einde gemaakt aan deze start van het klassieke voorjaar.&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Eindelijk is KBK thuisgekomen in de stad met een lange traditie in het organiseren van BK’s. Al in 1302 werd het eerste BK Fransoos een goedendag meppen er georganiseerd. Ook toen werden de topfavorieten Breydel en De Coninck bejubeld op het startpodium. Na dit eerste grote succes werden nog tal van BK’s georganiseerd, met als laatste toppers het BK luchtgitaar en het BK combipissen.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Omloop Het Nieuwsblad 2024</title>
-      <link>/Omloop-Het-Nieuwsblad-2024/</link>
+      <link>//localhost:4321/Omloop-Het-Nieuwsblad-2024/</link>
       <pubDate>Sat, 24 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/Omloop-Het-Nieuwsblad-2024/</guid>
-      <description>VerslagWe zaten dit jaar al in Portugal, Oman, Rwanda, Frankrijk, Spanje en omstreken maar eindelijk kwam de koers weer thuiswaarts, want de koers is van ons. Genoeg gepromopraat…wie waren de sterkste leerlingen uit de voorjaarsklas?
-Degene die uitkeken naar een lang gevecht, werden op hun wenken bediend, want al op 140 km van de streep rukten zich 23 mannen los uit het peloton in de achtervolging op de kopgroep.</description>
+      <guid>//localhost:4321/Omloop-Het-Nieuwsblad-2024/</guid>
+      <description>&lt;link href=&#34;//localhost:4321/Omloop-Het-Nieuwsblad-2024/index_files/htmltools-fill/fill.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Omloop-Het-Nieuwsblad-2024/index_files/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Omloop-Het-Nieuwsblad-2024/index_files/datatables-css/datatables-crosstalk.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Omloop-Het-Nieuwsblad-2024/index_files/datatables-binding/datatables.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Omloop-Het-Nieuwsblad-2024/index_files/jquery/jquery-3.6.0.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Omloop-Het-Nieuwsblad-2024/index_files/dt-core/css/jquery.dataTables.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Omloop-Het-Nieuwsblad-2024/index_files/dt-core/css/jquery.dataTables.extra.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Omloop-Het-Nieuwsblad-2024/index_files/dt-core/js/jquery.dataTables.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;link href=&#34;//localhost:4321/Omloop-Het-Nieuwsblad-2024/index_files/crosstalk/css/crosstalk.min.css&#34; rel=&#34;stylesheet&#34; /&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/Omloop-Het-Nieuwsblad-2024/index_files/crosstalk/js/crosstalk.min.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;center&gt;&#xD;&#xA;&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; /&gt;&#xD;&#xA;&lt;/center&gt;&#xD;&#xA;&lt;div id=&#34;verslag&#34; class=&#34;section level2&#34;&gt;&#xD;&#xA;&lt;h2&gt;Verslag&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;We zaten dit jaar al in Portugal, Oman, Rwanda, Frankrijk, Spanje en omstreken maar eindelijk kwam de koers weer thuiswaarts, want de koers is van ons. Genoeg gepromopraat…wie waren de sterkste leerlingen uit de voorjaarsklas?&lt;/p&gt;&#xD;&#xA;&lt;p&gt;Degene die uitkeken naar een lang gevecht, werden op hun wenken bediend, want al op 140 km van de streep rukten zich 23 mannen los uit het peloton in de achtervolging op de kopgroep. 5 Vismannen, ook De Lie, Philipsen en Pidcock toonden zich paraat voor het strijdtoneel.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>Luik-Bastenaken-Luik 2023</title>
-      <link>/Luik-Bastenaken-Luik-2023/</link>
-      <pubDate>Sun, 23 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Luik-Bastenaken-Luik-2023/</guid>
-      <description>VerslagVoor de koers slecht nieuws voor UAE want er is geen Ulissi in de ploeg wegens ziekte, ook bij Jumbo voor de start pech, want door corona vallen Sam en Tosh uit de ploeg. We krijgen een kopgroep van 11 man, met daarbij Carretero, Vélasco, Zimmerman, Van den Berg, Meens, Ourselin, Apers, Dversnes, Balmer, Beer Le Berre en ook Osborne. Een beetje voor 13u slecht nieuws : Tadej komt ten val samen met Mikkel Honoré en beiden geven op.</description>
-    </item>
-    
-    <item>
-      <title>Waalse Pijl 2023</title>
-      <link>/Waalse-Pijl-2023/</link>
-      <pubDate>Wed, 19 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Waalse-Pijl-2023/</guid>
-      <description>VerslagDe Waalse Pijl oftewel het criterium van Hoei. 8 vroege vogels laten zich niet afschrikken door het doembeeld op het einde van de koers. Kragh Andersen en Zimmermann tonen zich de sterksten en zingen het het langst uit.In het peloton zien we de mannen van Ineos en UAE het tempo bepalen. De eerste passage over de muur levert niet veel op.</description>
-    </item>
-    
-    <item>
-      <title>Amstel Gold Race 2023</title>
-      <link>/Amstel-Gold-Race-2023/</link>
-      <pubDate>Sun, 16 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Amstel-Gold-Race-2023/</guid>
-      <description>VerslagTegenwoordig is pronostiekeren niet zo moeilijk meer, zeker als er ene Tadej aan de start staat. Zelfs een beloning met een vers Amstelbiertje kon hem niet afschrikken. Naast de Amstel schrijft hij voortaan met dikke stift veni vidi vici. Hulp van de koersdirecteur had hij niet nodig maar kreeg die toch.
-Wat dan te zeggen van de pocketier van EF Healy, na het podium van de Brabantse pijl haalt hij nu de tweede stek in de Amstel.</description>
-    </item>
-    
-    <item>
-      <title>Brabantse Pijl 2023</title>
-      <link>/Brabantse-Pijl-2023/</link>
-      <pubDate>Wed, 12 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Brabantse-Pijl-2023/</guid>
-      <description>VerslagZeg niet langer de Brabantse Pijl, maar zeg vanaf nu De Pijl der outsiders, want na Magnus Sheffield vorig jaar, staat alweer een onverwachte naam als winnaar op.
-Vijf renners (Ier Healy, Fransen Godon en Cavagna, Deen Kron en Zweed Eriksson) ontsnapten op 55 kilometer van de finish en voegden zich bij de laatste overlevende van de vroege vlucht, de UNO-X Noor Tord Gudmestad.</description>
-    </item>
-    
-    <item>
-      <title>Paris-Roubaix 2023</title>
-      <link>/Paris-Roubaix-2023/</link>
-      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Paris-Roubaix-2023/</guid>
-      <description>VerslagEen vliegende Hollander aan een rotvaart tussen Compiègne en Roubaix. Pech in zijn wiel, renners vallen als vliegen, lucht verlaat banden op de meest ongepaste momenten.
-Jasper knokt, vecht en bepaalt het tempo. Sterke benen in dienst van de kopman.
-Van Aert staat er snel alleen voor. De gele mannen krijgen klappen. Lek in de inspanning, pff den Hollander is weg.</description>
-    </item>
-    
-    <item>
-      <title>Scheldeprijs 2023</title>
-      <link>/Scheldeprijs-2023/</link>
-      <pubDate>Wed, 05 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Scheldeprijs-2023/</guid>
-      <description>VerslagDe wedstrijd zit erop en we gaan weer naar huis, het duurt nog maar enkele weken ( het voorjaar )Nog 4 keer slapen en dan weer voor de buis, dan zullen de benen weer sprekenDus dit is het verslag van de Scheldeprijs dat ik je schrijf, kijk morgen maar goed de krantDan weet je dat Jasper de zege opeist, en in de armen van Melanie belandt</description>
-    </item>
-    
-    <item>
-      <title>Ronde Van Vlaanderen 2023</title>
-      <link>/Ronde-Van-Vlaanderen-2023/</link>
-      <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Ronde-Van-Vlaanderen-2023/</guid>
-      <description>VerslagIn de Natuur heb je de Big 5, in de koers de big 3. Iedereen gaat vandaag op jacht op de grote drie om ze in de vernieling te rijden.
-Het lijkt wel of het hele peloton in de vroege vlucht wil zitten. Pas na 100km rijden komt een kopgroep in schuifjes tot stand. Merlier, Vankeirsbulck, De Buyst, Hoole, Reinders, Rutsch, Houle, en Colombo.</description>
-    </item>
-    
-    <item>
-      <title>Dwars Door Vlaanderen 2023</title>
-      <link>/Dwars-Door-Vlaanderen-2023/</link>
-      <pubDate>Wed, 29 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Dwars-Door-Vlaanderen-2023/</guid>
-      <description>VerslagDeze ochtend tekenden de renners present in Roeselare, opdracht Dwars door Vlaanderen.(zondag rond Vlaanderen).
-6 vroege vluchters: Giditsj, Vanhoof, Heinschke, Zukowsky, Lazkano en Brommer Kristoff. De beren vooraan doen het goed, Giditsj, Zukowsky moeten onderweg de rol lossen.
-In het peloton is het een accordeonkoers. Hollen en stilstaan. De Treks controleren op de hellingen met een traag tempo en trekken op de top door.</description>
-    </item>
-    
-    <item>
-      <title>Gent-Wevelgem 2023</title>
-      <link>/Gent-Wevelgem-2023/</link>
-      <pubDate>Sun, 26 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Gent-Wevelgem-2023/</guid>
-      <description>VerslagDeel 1. Camille – Vuurwerk
-Vuurwerk werd voorspeld voor deze 85e editie van Gent-Wevelgem, en de voorbeschouwingen met de slechtweereditie van 2015 waren dan ook legio. Wie volgde Biniam op, en mocht zich de bibberende beer noemen?Gestart werd er in Zonnebeke, maar zon kregen we niet te zien, we moesten het doen met het substituut-geel van de Jumbos, al hadden die in het begin zwarte frakskes aan.</description>
-    </item>
-    
-    <item>
-      <title>E3 Prijs Harelbeke 2023</title>
-      <link>/E3-Prijs-Harelbeke-2023/</link>
-      <pubDate>Fri, 24 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/E3-Prijs-Harelbeke-2023/</guid>
-      <description>VerslagNu Frank het weerbericht vaarwel gezegd heeft, is het weer in de war. Regen en wind zijn al een tijdje ons deel. Voeg dit ingrediënt samen met het parcours en de deelnemerslijst van de E3 en je krijgt een pittig gerechtje.
-5 vluchters laten zich niet afschrikken van het gure weer. De Beer Le Berre, O’Brien, Norsgaard, Bonnet en Urianstad. De grote kat gunt ze geen 3 minuten.</description>
-    </item>
-    
-    <item>
-      <title>Driedaagse Brugge-De Panne 2023</title>
-      <link>/Driedaagse-Brugge-De-Panne-2023/</link>
-      <pubDate>Wed, 22 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Driedaagse-Brugge-De-Panne-2023/</guid>
-      <description>VerslagWaaierweer in Vlaanderen vandaag, gelukkig was er ook koers om naar te kijken. En we kregen koers vandaag…van Brugge tot in de Panne
-We kregen al vlug een kopgroep van 7 renners, met omlooprevelatie Le Berre, Benixden, Blouwe, Fretin, Meens, Reynders, Rutsch. Eerste opgave: Bennett, ex-winnaar hier, geeft er de brui aan.
-Bij de 2de passage in de Moeren is het Philipsen die de lont aan het vuur steekt, er komt een afscheiding met zo’n 36 renners.</description>
-    </item>
-    
-    <item>
-      <title>Milaan-Sanremo 2023</title>
-      <link>/Milaan-Sanremo-2023/</link>
-      <pubDate>Sat, 18 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Milaan-Sanremo-2023/</guid>
-      <description>VerslagLa primavera werd vandaag op gang geschoten. Nog voor dit officieel gebeurde lag Kuifje uit Slovenië tegen de grond om te bloembollen te checken. Gelukkig zonder al te veel erg. Al zou De Cauwer spreken van een streepke op de carrosserie.
-Na 10km kwamen de eerste vroegbloeiers piepen en al snel reden ze met een boeketje van 9 weg. In het peloton ging men al snel over tot de traditionele controle.</description>
-    </item>
-    
-    <item>
-      <title>Bredene Koksijde Classic 2023</title>
-      <link>/Bredene-Koksijde-Classic-2023/</link>
-      <pubDate>Fri, 17 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Bredene-Koksijde-Classic-2023/</guid>
-      <description>VerslagMijn dag3u30 opstaan, checken hoe het zit met Karel Sabbe, en inwendig juichen omdat hij net niet zijn tanden heeft stukgebeten op de Barkley Marathon. Even terug in bed kruipen om te bekomen van de inspanning en ook wel omdat het vandaag Wereldslaapdag is.
-6u00 opstaan, 20 kilometer lopen langs Schelde en Donk, zien dat de VIP tenten al klaar staan voor de Ronde voor binnen 2 weken.</description>
-    </item>
-    
-    <item>
-      <title>Nokere Koerse 2023</title>
-      <link>/Nokere-Koerse-2023/</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Nokere-Koerse-2023/</guid>
-      <description>VerslagDe weergoden hebben vandaag een snipperdag genomen, windstilte en droog met een aangename koerstemperatuur. Vandaag stond het kassei - criterium van Nokere op het programma.
-7 vroege vluchters kiezen het hazenpad. Onder hen de winnaar van 2021, Robeet. De voorsprong wordt binnen de perken gehouden door de ploegen van de sprinters. Het is koersen met de spreadsheet in de hand, controle alom.</description>
-    </item>
-    
-    <item>
-      <title>Strade Bianche 2023</title>
-      <link>/Strade-Bianche-2023/</link>
-      <pubDate>Sat, 04 Mar 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Strade-Bianche-2023/</guid>
-      <description>VerslagStrade Bianche, de koers genoemd naar de ondergrond waarop hij gereden wordt. Wat een naam, dit in schril contrast met Het Nieuwsblad genoemd naar de gazettesponsor of Kuurne-Brussel-Kuurne, een naam voor renners die geen TomTom in hun fietscomputer hebben.
-De editie werd wel wat onthoofd door de afzeggingen van titelverdediger Pogacar en ex-laureaat Van Aert. Maar met VDP, Alaphilippe, Benoot, Wellens en Pidcock was het deelnemersveld toch voldoende goed gestoffeerd.</description>
-    </item>
-    
-    <item>
-      <title>Kuurne-Brussel-Kuurne 2023</title>
-      <link>/Kuurne-Brussel-Kuurne-2023/</link>
-      <pubDate>Sun, 26 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Kuurne-Brussel-Kuurne-2023/</guid>
-      <description>VerslagEen stralende zon, de weergoden gooiden het op een akkoordje met de wielergoden, maar wel berekoud.
-De laatste Belgische zege in de eerste West-Vlaamse wielerklassieker van dit seizoen dateert al van 7 jaar geleden. Aan Belgische kanshebbers ook vandaag geen gebrek : kregen we vandaag een De Lie rium? Of volgde Philipsen zijn naamgenoot Stuyven op? Of zorgde de donderpreek van Patrick voor een heropflakkering van de Quick-Steppers?</description>
-    </item>
-    
-    <item>
-      <title>Omloop Het Nieuwsblad 2023</title>
-      <link>/Omloop-Het-Nieuwsblad-2023/</link>
-      <pubDate>Sat, 25 Feb 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/Omloop-Het-Nieuwsblad-2023/</guid>
-      <description>VerslagMet veel spanning zijn we terug aan het wielervoorjaar begonnen. 82 liefhebbers hebben een ploeg ingediend en dat zorgt voor een nieuw recordjaar. Alvast bedankt voor jullie enthousiasme.
-Omloop het Nieuwsblad ofwel het criterium op de Haaghoek is de opener van dit klassieke voorjaar. We beginnen natuurlijk op Vlaamse wijze, want na 5 km is er al een vroege vlucht van 7 man.</description>
-    </item>
-    
     <item>
       <title>Deelnemers</title>
-      <link>/statistieken/deelnemers/</link>
+      <link>//localhost:4321/statistieken/deelnemers/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/deelnemers/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Deelnemers_files/figure-html//widgets/widget_resultaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+      <guid>//localhost:4321/statistieken/deelnemers/</guid>
+      <description>&lt;script src=&#34;//localhost:4321/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:10000px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Deelnemers_files/figure-html//widgets/widget_resultaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>Eindafrekening</title>
-      <link>/statistieken/eindafrekening/</link>
+      <link>//localhost:4321/statistieken/eindafrekening/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/eindafrekening/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Eindafrekening_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+      <guid>//localhost:4321/statistieken/eindafrekening/</guid>
+      <description>&lt;script src=&#34;//localhost:4321/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:10000px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Eindafrekening_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>Meest Gelijke Ploegen</title>
-      <link>/statistieken/meest-gelijke-ploegen/</link>
+      <link>//localhost:4321/statistieken/meest-gelijke-ploegen/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/meest-gelijke-ploegen/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Meest-Gelijke-Ploegen_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+      <guid>//localhost:4321/statistieken/meest-gelijke-ploegen/</guid>
+      <description>&lt;script src=&#34;//localhost:4321/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:10000px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Meest-Gelijke-Ploegen_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>Optimale Ploeg</title>
-      <link>/statistieken/optimale-ploeg/</link>
+      <link>//localhost:4321/statistieken/optimale-ploeg/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/optimale-ploeg/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Optimale-Ploeg_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+      <guid>//localhost:4321/statistieken/optimale-ploeg/</guid>
+      <description>&lt;script src=&#34;//localhost:4321/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:10000px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Optimale-Ploeg_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>Overwinningen per Deelnemer</title>
-      <link>/statistieken/overwinningen-per-deelnemer/</link>
+      <link>//localhost:4321/statistieken/overwinningen-per-deelnemer/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/overwinningen-per-deelnemer/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Overwinningen-Per-Deelnemer_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+      <guid>//localhost:4321/statistieken/overwinningen-per-deelnemer/</guid>
+      <description>&lt;script src=&#34;//localhost:4321/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:10000px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Overwinningen-Per-Deelnemer_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>Ploegen</title>
-      <link>/statistieken/ploegen/</link>
+      <link>//localhost:4321/statistieken/ploegen/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/ploegen/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Ploegen_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+      <guid>//localhost:4321/statistieken/ploegen/</guid>
+      <description>&lt;script src=&#34;//localhost:4321/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:1e+05px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Ploegen_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>Renners</title>
-      <link>/statistieken/renners/</link>
+      <link>//localhost:4321/statistieken/renners/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/renners/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Renners_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+      <guid>//localhost:4321/statistieken/renners/</guid>
+      <description>&lt;script src=&#34;//localhost:4321/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:10000px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Renners_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>Renners Aantal Keer Gekozen</title>
-      <link>/statistieken/renners-aantal-gekozen/</link>
+      <link>//localhost:4321/statistieken/renners-aantal-gekozen/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/renners-aantal-gekozen/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Renners-Aantal-Gekozen_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+      <guid>//localhost:4321/statistieken/renners-aantal-gekozen/</guid>
+      <description>&lt;script src=&#34;//localhost:4321/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:10000px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Renners-Aantal-Gekozen_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>Renners Opbrengst</title>
-      <link>/statistieken/renners-opbrengst/</link>
+      <link>//localhost:4321/statistieken/renners-opbrengst/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/renners-opbrengst/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Renners-Opbrengst_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+      <guid>//localhost:4321/statistieken/renners-opbrengst/</guid>
+      <description>&lt;script src=&#34;//localhost:4321/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:10000px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Renners-Opbrengst_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>Tussenstanden</title>
-      <link>/statistieken/tussenstanden/</link>
+      <link>//localhost:4321/statistieken/tussenstanden/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/tussenstanden/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Tussenstanden_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+      <guid>//localhost:4321/statistieken/tussenstanden/</guid>
+      <description>&lt;script src=&#34;//localhost:4321/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:10000px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Tussenstanden_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>Uitslagen</title>
-      <link>/statistieken/uitslagen/</link>
+      <link>//localhost:4321/statistieken/uitslagen/</link>
       <pubDate>Sat, 08 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/uitslagen/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Uitslagen_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+      <guid>//localhost:4321/statistieken/uitslagen/</guid>
+      <description>&lt;script src=&#34;//localhost:4321/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:10000px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Uitslagen_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>Uitslagen Renners</title>
-      <link>/statistieken/uitslag-renners/</link>
+      <link>//localhost:4321/statistieken/uitslag-renners/</link>
       <pubDate>Sat, 08 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>/statistieken/uitslag-renners/</guid>
-      <description>{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Uitslag-Renners_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}</description>
+      <guid>//localhost:4321/statistieken/uitslag-renners/</guid>
+      <description>&lt;script src=&#34;//localhost:4321/rmarkdown-libs/htmlwidgets/htmlwidgets.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/pymjs/pym.v1.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&lt;script src=&#34;//localhost:4321/rmarkdown-libs/widgetframe-binding/widgetframe.js&#34;&gt;&lt;/script&gt;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;div id=&#34;htmlwidget-1&#34; style=&#34;width:100%;height:10000px;&#34; class=&#34;widgetframe html-widget&#34;&gt;&lt;/div&gt;&#xD;&#xA;&lt;script type=&#34;application/json&#34; data-for=&#34;htmlwidget-1&#34;&gt;{&#34;x&#34;:{&#34;url&#34;:&#34;/statistieken/Uitslag-Renners_files/figure-html//widgets/widget_resultaaat.html&#34;,&#34;options&#34;:{&#34;xdomain&#34;:&#34;*&#34;,&#34;allowfullscreen&#34;:false,&#34;lazyload&#34;:false}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]}&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:4321/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <guid>//localhost:4321/about/</guid>
+      <description>&lt;p&gt;This is a &amp;ldquo;hello world&amp;rdquo; example website for the &lt;a href=&#34;https://github.com/rstudio/blogdown&#34;&gt;&lt;strong&gt;blogdown&lt;/strong&gt;&lt;/a&gt; package. The theme was forked from &lt;a href=&#34;https://github.com/jrutheiser/hugo-lithium-theme&#34;&gt;@jrutheiser/hugo-lithium-theme&lt;/a&gt; and modified by &lt;a href=&#34;https://github.com/yihui/hugo-lithium&#34;&gt;Yihui Xie&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
