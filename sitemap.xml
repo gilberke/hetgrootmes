@@ -3,18 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:4321/categories/</loc>
-    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:4321/Luik-Bastenaken-Luik-2024/</loc>
-    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/</loc>
-    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/Omloop-Het-Nieuwsblad-2025/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/post/</loc>
-    <lastmod>2024-04-21T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/categories/verslagen/</loc>
+    <lastmod>2025-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/Luik-Bastenaken-Luik-2024/</loc>
     <lastmod>2024-04-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/Waalse-Pijl-2024/</loc>
