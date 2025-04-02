@@ -3,18 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:4321/categories/</loc>
-    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:4321/Gent-Wevelgem-2025/</loc>
-    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+    <loc>//localhost:4321/Dwars-Door-Vlaanderen-2025/</loc>
+    <lastmod>2025-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/</loc>
-    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/post/</loc>
-    <lastmod>2025-03-30T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/categories/verslagen/</loc>
+    <lastmod>2025-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:4321/Gent-Wevelgem-2025/</loc>
     <lastmod>2025-03-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:4321/E3-Prijs-Harelbeke-2025/</loc>
